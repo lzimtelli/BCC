@@ -1,0 +1,6 @@
+body (elemento)
+header (elemento)
+p (elemento)
+h1 (elemento)
+.container (classe)
+#destaque (ID)
